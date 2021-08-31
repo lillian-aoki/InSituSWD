@@ -1,7 +1,9 @@
 # InSituSWD
 Data and code to support manuscript 'Seagrass wasting disease limits growth and belowground sugar in natural eelgrass meadows.'
 
-https://doi.org/10.5281/zenodo.5339331
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5339331.svg)](https://doi.org/10.5281/zenodo.5339331)
+
 
 Authors: Olivia J. Graham, Lillian R. Aoki, Tiffany Stephens, Joshua Stokes, Sukanya Dayal, Brendan Rappazzo, Carla P. Gomes, C. Drew Harvell
 
